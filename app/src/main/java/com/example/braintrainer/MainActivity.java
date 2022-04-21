@@ -14,6 +14,7 @@ import java.util.Random;
 
 public class MainActivity extends AppCompatActivity {
 
+    // ini perubahan baru
     Button startButton;
     TextView resultTextView;
     TextView pointTextView;
